@@ -1,3 +1,0 @@
-package raw
-
-val AlarmStart=""
